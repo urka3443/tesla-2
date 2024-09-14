@@ -1,0 +1,226 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background: url(/img/image1.jpg) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 56px;
+    width: 100%;
+    color: white;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    padding: 0px 16px;
+    gap: 8px;
+
+}
+.chapter{
+    display: flex;
+
+}
+.chapter p{
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+    gap: 8px;
+    padding: 6px 16px;
+    line-height: 20px;
+}
+.icon{
+    display: flex;
+    height: 20px;
+    gap: 8px;
+    padding-right: 16px;
+}
+
+.model{
+    font-size: 40px;
+}
+.price{
+    font-size: 20px;
+}
+.text{
+    font-size: 12px;
+}
+.box1{
+    padding: 11px 40px;
+    font-size: 14px;
+    background-color: white;
+    display: inline;
+    border-radius: 4px;
+    line-height: 18px;
+    gap: 8px;
+}
+.box2{
+    padding: 11px 40px;
+    font-size: 14px;
+    background-color: #444;
+    display: inline;
+    color: white;
+    border-radius: 4px;
+    line-height: 18px;
+    gap: 8px;
+}
+.bottom{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0px;
+    padding-top: 600px;
+    
+
+}
+
+.medee{
+    color: #ffff;
+    display: flex;
+    align-items: center;
+}
+.container1{
+    background:url(/img/model\ 3.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.top1{
+    top: 128px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.model1{
+    font-size: 40px;
+}
+.price1{
+    font-size: 20px;
+    line-height: 20px;
+}
+.bx1{
+    padding: 11px 40px;
+    font-size: 14px;
+    background-color: white;
+    display: inline;
+    border-radius: 4px;
+    line-height: 18px;
+    gap: 8px;
+}
+.bx2{
+    padding: 11px 40px;
+    font-size: 14px;
+    background-color: #444;
+    display: inline;
+    color: white;
+    border-radius: 4px;
+    line-height: 18px;
+    gap: 8px;
+}
+.bottom1{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    padding-top: 780px;
+    
+
+}
+.button1{
+    display: flex;
+    align-items: center;
+    position: relative;
+    gap: 24px;
+    padding: 16px 24px;
+
+}
+.medee1{
+    color: #ffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container2{
+    background:url(/img/model\ x.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.container3{
+    background:url(/img/model\ s.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.container4{
+    background:url(/img/model.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.container5{
+    height: 975px;
+    width: 100%;
+    position: relative;
+    
+}
+.top{
+    position: relative;
+    top: 128px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    color: #ffff;
+
+}
+.top2{
+    position: absolute;
+    top: 128px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    color: #ffff;
+    left: 560px;
+
+}
+.btn{
+    position: relative;
+    align-items: center;
+    color: #ffff;
+    font-size: 14px;
+    gap: 24px;
+    padding: 11px 40px;
+    left: 600px;
+    border-radius: 4px;
+    border: #ffff 3px;
+}
+.container6{
+    background:url(/img/solar\ panels.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.container7{
+    background:url(/img/solar\ roof.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.container8{
+    background:url(/img/powerwall.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.container9{
+    background:url(/img/acsessories.png) no-repeat center center/cover;
+    height: 975px;
+    width: 100%;
+}
+.footer-nav{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    padding: 17px 5px;
+    gap: 14px;
+    color: #ffff;
+}
